@@ -1,0 +1,8 @@
+---
+title: rjs test title
+layout: post
+---
+
+Here is my page. it is awesome ~~hello world~~
+
+what's down here?
