@@ -105,7 +105,7 @@ header h2 {
 a.button {
   display: block;
   float: left;
-  width: 179px;
+  width: 150px;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
   font-size: 15px;
@@ -152,14 +152,14 @@ a.button span {
   padding-left: 50px;
 }
 
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
+#Home span {
+  background: transparent url(../images/home-icon.png) 12px 20% no-repeat;
 }
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
+#About span {
+  background: transparent url(../images/about-icon.png) 12px 20% no-repeat;
 }
-#view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+#Blog span {
+  background: transparent url(../images/blog-icon.png) 12px 25% no-repeat;
 }
 #view-on-github {
   margin-right: 0;
