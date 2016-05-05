@@ -19,3 +19,4 @@ github_username:  4pstart
 # Build settings
 markdown: kramdown
 repository: 4pstart/robustwryale.git
+permalink: /blog/:year/:month/:day/:title
