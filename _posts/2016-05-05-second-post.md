@@ -1,15 +1,63 @@
 ---
 layout: post
-title: "My second ever blog post"
+title: "My favorite games"
 date: 2016-05-05
 ---
-Let's see what a header looks like
-----------------------------------
-This is my second blog post. I recognize that it's still not especially interesting, but that's not really the point. The point is to get the hang of setting up my blog site, and figuring out post formatting. 
+For the first 'real' blog post I'm writing, I thought it would be wise to talk about a topic on which I consider myself to be partiularly well-informed. Namely: my own opinion. In this case it's a list of some of my favorite video games. I was considering making it a "10 favorite games (in no particular order)" list, but I'm not sure the specific number of games I list is important. So it will remain just "some favorite games".
 
-### This is a subsection
+The purpose of this post is to get the hang of expressing my feelings on an essentially trivial topic, before I try my hand at expressing myself on more 'important' topics in later posts. The style and types of thoughts and review-style I provide will most likely vary from game to game. Partly because each game has effected me in very different ways, and partly as a mean to experiment with my writing style.
 
-So, this is the first sub-point to the one above. It's still not interesting or difficult.
+Anyway, enough blabbing about what I intend on blabbing about, it's time to blab for real:
 
-### Next subsection
-Maybe I'll write some `code snippet` in here. 
+### F-Zero X
+
+#####Intro: Before F-Zero X
+
+The original F-Zero on the SNES was a fine game. I recall that I played it a few times in my youth, before finally buying it very, very late in the SNES's lifecycle. I didn't have to play it for very long before beating it and I returned the game within the 10-day window. Overall I like the game, but didn't consider it to have huge replay value and couldn't justify keeping it. In particular, I enjoyed the futuristic setting graphics and music, and the interesting race & steering mechanics.
+
+I used to get a monthly subscription to N64 magazine, which provided genuinely high-quality (and frequently hilarious) previews and reviews of just about every Nintendo game of the time. F-Zero X was released in Japan in July of 1998, but not in PAL regions until November of that year. As such, the folks at N64 (who often wrote extensive 'preview' articles based on imported versions of games) had quite extensive coverage of the game, and I recall being particularly excited for this game to finally make it's way to me. It sounded like it would be a refinement of all of those aspects of the original game that I had enjoyed, while also introducing some genuinely original and exciting gameplay mechanics. The previous particularly emphasized just how incredibly fast the game would be.
+
+##### F-Zero X
+
+As I did with all game purchases at the time, I mail-ordered the game and as I recall, it actually arrived on my doorstep first thing in the morning, a day before it's official release-date. It arrived right as I was about to leave for school, and I ran upstairs knowing I had time for probably one race. The first race you play in this game, just like in its predecessor, is around Mute City. The thing that sticks with me most from that first minute of play is the music. The song that plays as you race on that first circuit is a remix of the Mute City theme from the original game. Now, the intro to the song lasts around 10 seconds before the iconic anthem hits, and I'll never forget the shivers that ran down my spine over that first 10 seconds of that first race as it began to dawn on me what I was listening to.
+
+The music is a fun thing to focus on, not least because it was the very first thing that _really_ struck me when I first played the game, but there are very many things  I love about F-Zero X, which I will attempt to summarize below. 
+
+I love that you're racing against 29 other vehicles, all of which are scrapping with each other and with you. It feels like a real fight to work your way through the pack against opponents that all also really want to win, and who aren't afraid to bash you or each other around to achieve that. There's no weapons other than your vehicle, but with skill and careful timing you can destroy the other racers by performing one of two 'attacks', the side-charge or spin-attack. Get too aggressive, however, and before you know it you can be low on life, or accidentally send yourself flying off the edge of the track. You have a single 'energy' meter, so your 'health' is also your 'boost power'. In other words, every time you activate your speed boost (which you can do at any time from the 2nd lap onwards), you lose a modest portion of your health. This causes you to have to make tough, on-the-fly choices about whether you want to risk being destroyed altogether in order to get enough extra speed to potentially overtake some competitors. When you get really good at the game, you can boost past someone and perfectly time a nudge in their side, thus destroying them, for which the game rewards you by giving you a small portion of health back - just enough to perform another speed-boost... 
+
+I love the difficulty settings in the game. There are a total of four difficulty settings, each of which is a significant bump from teh previous. The hardest difficulty setting (Master) was genuinely difficult to beat, but never once felt unfair. On every difficulty setting, your opponents never 'cheat' - if you're awesome, you'll win by a distance, but if you suck, you'll lose fair and square. I did notice that the CPU racers get more aggressive, as well as much faster (or, I guess, more competent at racing) on the harder difficulties. As the diffculty levels go up, the number of 'lives' you have decreases - you lose a life if you are destroyed (run out of health/energy), or fall off the course, thus forcing you to restart that race. You can get an extra life for destroying 5 competitors in a single race. 
+
+I love the simple, but very effective structure of racing through a series of 6 tracks that comprise a Cup in the main GP mode. Every race finisher gets points for that race, and in order to get the Gold medal in the Cup, you must have the most points after the 6 races in that series. Note that any vehicle that fails to complete the race (because they blew up, or 'fell' (heh) off the edge of the track) will receive zero points for that race. That means that it's possible for a player to win gold in the Cup without ever finishing especially high in any particular race, by focussing on destroying their rivals. The game helpfully indicates which vehicle is currently top of the overall standings (if that vehicle is destroyed, the indicator moves to the next-highest placed racer, and so on), so you know who it's best to target. I sometimes wonder if it would have been fun if there had been a type of 'survival' mode, where if you die you just get zero points for that race and are forced to move onto the next one (like all the CPU players experience). That's a very minor quibble!
+
+The track design in this game is fantastic. Every course is distinct and memorable. They also do a great job of increasing the difficulty of the tracks as you go through the different Cups: first by making teh courses narrower, with tighter curves; then by removing edges; then by adding ice and other obsticles; adding on-track speed boosters that the other racers will hit, meaning you'd better too. Spoiler alert: once you beat all the Cups on the hardest difficulty (and both the 4th Cup and the 'master' difficulty setting also require unlocking) you unlock the 'X-Cup' which creates a series of 6 frickin' _randomly generated_ tracks for you to race on, meaning you can literally play this game forever and on a new track every single time. Obviously, being randomly generated means that the there is no 'course design' to speak of, so they're not all hits, but it's not uncommon to get a real fun and/or challenging track. It's too bad they didn't include some way to save these random tracks, or provide you with a code 'seed' for each track, because once you finish them you can never see or play them again.
+
+It's worth also spending a moment to discuss the vehicle (and driver) design. Each of the 30 vehicles in the game is very distinct, both in terms of looks, but also in terms of weight, speed and handling attributes. The latter attributes are experienced not just by you if you choose that vehicle, but are also evident by the CPU-controlled version of each vehicle. You learn to hate trying to overtake a few of the particularly heavy and aggressive racers! Each vehicle is accompanied by a distinctive and unique cartoon-character sci-fi driver. The game itself gives you very little in the way of backstory for these characters, but none-the-less they have amusing personalities that come out post-ceremony if you use them to beat a Cup.
+
+Overall I love that it's a 'pure' racing experience - no weapons, or randomness, or cheating CPU opponents. Just racing, but at insane speeds, on rollercoaster circuits and with aggressive, plentiful and colorful opposition.
+
+Some additional thoughts about the game:
+
+I'm a sucker for a well-implimented time-trial mode, and in a game as 'pure' as F-Zero X, it's particularly fun here. When you complete a full run of 3 laps of a track, your time and best lap will be saved, as will a 'ghost' of your performance, which you can choose to race against next time. If you record a good enough time on a track, you unlock a 'staff ghost' - a ghost created by the makers of the game who's will be genuinely very, very hard to beat. Naturally, you can film yourself recording a great time and send it into world record websites, but it's too bad this game came out before online capabilities that would have allowed payers to upload their own ghosts, and to have a true global leaderboard.
+
+The other modes I haven't discussed are Death Race and multiplayer. Death race is a fun diversion, and helpful to practice your in-race combat techniques. You compete on a straight-line (actually the 'inside' of a closed loop-de-loop), narrow course with almost no sides, and try to destroy all other 29 vehicles as quickly as you can. Naturally your best time is saved, so you can replay to try and break your record. There's no in-game reward for doing particularly well. 
+
+As for the multiplayer, sadly it's limited to only 2-4 local (of course) player-versus-player races, with at most two CPU opponents (to make the numbers up to four total). It's a real shame that the hardware couldn't support even a Mario Kart-like 2-player version of the full 30-racer GP mode, because that could have been be a lot of fun. Today I can only imagine what a full-on online 30-racer experience would be like. Please make a current or next-gen F-Zero game with this feature, Nintendo. I will pay you a lot of money for this.
+
+There is a Japan-only 64DD add-on version of the game, that apparently includes additional tracks and track and vehicle creator tools, as well as sterio soundtracks (!). It's a real shame this never came to the west, because without huge financial outlay, I'll probably never get to play though this (it doesn't seem to have ever been emulated on PC). Even if I did go online and purchase a Japanese 64DD and copy of the game, I don't know how easy it would be to find (or share) custom created tracks. I'm also skeptical that the quality of the 12 included tracks would ever hold up to how I feel about the original set of 24.
+
+##### The follow-up: F-Zero GX
+
+In 2003, Nintendo, in an at-the-time still somewhat surreal collaboration with Sega released a home-console follow-up, in the form of F-Zero GX for the Gamecube. I happened to own a Japanese Gamecube (a story for another day...) and therefore snapped up F-Zero GX as soon as I could (a couple of months before UK release). Now, as I've made clear above, I'm a huge, massive fan of the N64 version, so GX had a very high bar to live up to. And boy, did it almost deliver. Indeed, there are many folks out there who feel that GX is indeed superior, and they make convincing arguments! 
+
+As a game, GX is far more of an evolution of the F-Zero X formula than the drastic difference that the N64 version was over the original SNES version. You still have the same 30 vehicles (although additional vehicles can be unlocked, and there's a custom vehicle creation tool). You still have the joint heath-meter/speed boost system, and the same two 'attacks' you can perform to try to destroy other racers. You still have the same 4-difficulty setting GP-mode structure, with 4 cups of 6 tracks, with the same points system. F-Zero GX is still crazy intense, and fast and every race still feels like an exhilarating scrap to the finish line. The graphics are, technically at least, a vast improvement over the super-simple N64 graphics which were limited by the hardware of the time. I'm not such a big fan of the music, even though many tracks are remixed version of the N64 ones. There's a cool 'adventure' mode that is very, very tough to beat.
+
+There's something about the graphical style that I don't love (I'm no art critic, this is a hard one for me to describe). [In fact, that just gave me a great idea for a future post: I need to try to write about how I'm put off by a vast majority of AAA, super-highly-rated games purely by their graphical style, for reasons that I can bever articulate.]
+
+Overall, F-Zero GX is a great game that I probably need to dig out and re-play. Sadly, in my mind, it doesn't quite have the same sweet nostalgia spot that X does. In particular, I think it didn't do enough to set itself apart from F-Zero X and I feel the track design and presentation (in which I include music and graphical style) are, for me, the areas where GX is just one half-notch below X. 
+
+
+
+
+
+
+
