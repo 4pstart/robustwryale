@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "My favorite games"
-date: 2016-05-05
+date: 2016-05-19
 ---
-For the first 'real' blog post I'm writing, I thought it would be wise to talk about a topic on which I consider myself to be partiularly well-informed. Namely: my own opinion. In this case it's a list of some of my favorite video games. I was considering making it a "10 favorite games (in no particular order)" list, but I'm not sure the specific number of games I list is important. So it will remain just "some favorite games".
+For the first 'real' blog posts I'm writing, I thought it would be wise to talk about a topic on which I consider myself to be partiularly well-informed. Namely: my own opinion. In this case I want to list and talk about some of my favorite video games. I was considering making it a "10 favorite games (in no particular order)" list, but I'm not sure the specific number of games I list is important. So it will remain just "some favorite games". I was also thinking I'd have a single post where I talk about all of my favorite games, but then I had way more than enough content for a single post after just talking about one game. So I guess this will be a series!
 
-The purpose of this post is to get the hang of expressing my feelings on an essentially trivial topic, before I try my hand at expressing myself on more 'important' topics in later posts. The style and types of thoughts and review-style I provide will most likely vary from game to game. Partly because each game has effected me in very different ways, and partly as a mean to experiment with my writing style.
+The purpose of these initial posts is to get the hang of expressing my feelings on an essentially trivial topic, before I try my hand at expressing myself on more 'important' topics in later posts. The style and types of thoughts and review-style I provide will most likely vary from game to game. Partly because each game has effected me in very different ways, and partly as a mean to experiment with my writing style.
 
 Anyway, enough blabbing about what I intend on blabbing about, it's time to blab for real:
 
 ### F-Zero X
 
-#####Intro: Before F-Zero X
+##### Intro: Before F-Zero X
 
 The original F-Zero on the SNES was a fine game. I recall that I played it a few times in my youth, before finally buying it very, very late in the SNES's lifecycle. I didn't have to play it for very long before beating it and I returned the game within the 10-day window. Overall I like the game, but didn't consider it to have huge replay value and couldn't justify keeping it. In particular, I enjoyed the futuristic setting graphics and music, and the interesting race & steering mechanics.
 
