@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My favorite games"
+title: "My favorite games - Part 1"
 date: 2016-05-19
 ---
 For the first 'real' blog posts I'm writing, I thought it would be wise to talk about a topic on which I consider myself to be partiularly well-informed. Namely: my own opinion. In this case I want to list and talk about some of my favorite video games. I was considering making it a "10 favorite games (in no particular order)" list, but I'm not sure the specific number of games I list is important. So it will remain just "some favorite games". I was also thinking I'd have a single post where I talk about all of my favorite games, but then I had way more than enough content for a single post after just talking about one game. So I guess this will be a series!
