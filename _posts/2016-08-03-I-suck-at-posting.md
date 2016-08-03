@@ -21,7 +21,7 @@ I did feel that the story was ultimately a little simple and felt a lot like man
 
 ##### Star Trek: Beyond
 
-<img align="right" src="/images/post-images/beyond0001.JPG" title="Star Trek:Beyond" width="40%" style="margin:0 2.5rem 2.5rem 10%">
+<img align="right" src="{{ site.baseurl}}/images/post-images/beyond0001.JPG" title="Star Trek:Beyond" width="40%" style="margin:0 2.5rem 2.5rem 10%">
 
 I really disliked the previous movie, Star Trek: Into Darkness. The story was a mess that fell apart as soon as you thought about it for more than 3 seconds and it couldn't decide if it wanted to try to appeal to fans of the classic series and movies (especially Wrath of Khan) and ended up insulting said fans (which includes me) with super-forced references that totally didn't work. The new movie, Beyond, is _so_ much better than Into Darkness. I wouldn't go so far to say it was a genuinely great movie, but I'm honestly not sure _any_ Star Trek movie really qualifies for that distinction, (yeah, even II and IV). What's more, no Star Trek movie has ever really held up against the best episodes of the TV series, as they've tried to focus on action and adventure rather than the intelligent, thought-provoking, brains-over-braun fare that made the TV series' so beloved. 
 
