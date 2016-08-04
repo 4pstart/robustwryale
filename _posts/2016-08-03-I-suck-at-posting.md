@@ -11,7 +11,7 @@ I'll be honest and admit I have a lot of opinions about random shit and will pro
 
 ##### Ready Player One
 
-<img align="left" src="images/ready-2.jpg" title="Ready Player One" width="40%" style="margin:0 2.5rem 2.5rem -10%">
+<img align="left" src="/_posts/images/ready-2.jpg" title="Ready Player One" width="40%" style="margin:0 2.5rem 2.5rem -10%">
 
 I just finished reading Earnest Cline's 2011 novel about a distopian future in which most societies have more or less collapsed and real life is miserable, but people live their lives in an utterly convincing virtual reality simulation, that's basically the best ever MMORPG (leveling your character by going on quests; PVP play; fantasy and futuristic places to visit). The book's stuffed to bursting with nerd pop-culture references - mostly 80s movies, music and video games, which certainly sets it apart from any other 'serious' novel I've read. 
 
