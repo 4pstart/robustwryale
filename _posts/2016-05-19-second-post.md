@@ -15,14 +15,14 @@ Anyway, enough blabbing about what I intend on blabbing about, it's time to blab
 
 The original F-Zero on the SNES was a fine game. I recall that I played it a few times in my youth, before finally buying it very, very late in the SNES's lifecycle. I didn't have to play it for very long before beating it and I returned the game within the 10-day window. Overall I like the game, but didn't consider it to have huge replay value and couldn't justify keeping it. In particular, I enjoyed the futuristic setting graphics and music, and the interesting race & steering mechanics.
 
-<img align="left" src="/images/post-images/F-Zero-Gameplay-Screenshot-1.png" title="F-Zero gameplay screenshot" width="40%" style="margin:0 2.5rem 2.5rem -10%">
+<img align="left" src="{{site.baseurl}}/images/post-images/F-Zero-Gameplay-Screenshot-1.png" title="F-Zero gameplay screenshot" width="40%" style="margin:0 2.5rem 2.5rem -10%">
 
 
 I used to get a monthly subscription to N64 magazine, which provided genuinely high-quality (and frequently hilarious) previews and reviews of just about every Nintendo game of the time. F-Zero X was released in Japan in July of 1998, but not in PAL regions until November of that year. As such, the folks at N64 (who often wrote extensive 'preview' articles based on imported versions of games) had quite extensive coverage of the game, and I recall being particularly excited for this game to finally make it's way to me. It sounded like it would be a refinement of all of those aspects of the original game that I had enjoyed, while also introducing some genuinely original and exciting gameplay mechanics. The previous particularly emphasized just how incredibly fast the game would be.
 
 ##### F-Zero X
 
-<img align="right" src="/images/post-images/F-Zero X (U).png" title="F-Zero X Title Screen" width="40%" style="margin:5% -2.5rem 1.5rem 0.5">
+<img align="right" src="{{site.baseurl}}/images/post-images/F-Zero X (U).png" title="F-Zero X Title Screen" width="40%" style="margin:5% -2.5rem 1.5rem 0.5">
 
 As I did with all game purchases at the time, I mail-ordered the game and as I recall, it actually arrived on my doorstep first thing in the morning, a day before it's official release-date. It arrived right as I was about to leave for school, and I ran upstairs knowing I had time for probably one race. The first race you play in this game, just like in its predecessor, is around Mute City. The thing that sticks with me most from that first minute of play is the music. The song that plays as you race on that first circuit is a remix of the Mute City theme from the original game. Now, the intro to the song lasts around 10 seconds before the iconic anthem hits, and I'll never forget the shivers that ran down my spine over that first 10 seconds of that first race as it began to dawn on me what I was listening to.
 
