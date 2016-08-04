@@ -11,9 +11,9 @@ I'll be honest and admit I have a lot of opinions about random shit and will pro
 
 ##### Ready Player One
 
-<img align="left" src="{{site.baseurl}}/images/post-images/ready-2.jpg" title="Ready Player One" width="40%" style="margin:0 2.5rem 2.5rem -10%">
-
 I just finished reading Earnest Cline's 2011 novel about a distopian future in which most societies have more or less collapsed and real life is miserable, but people live their lives in an utterly convincing virtual reality simulation, that's basically the best ever MMORPG (leveling your character by going on quests; PVP play; fantasy and futuristic places to visit). The book's stuffed to bursting with nerd pop-culture references - mostly 80s movies, music and video games, which certainly sets it apart from any other 'serious' novel I've read. 
+
+<img align="left" src="{{site.baseurl}}/images/post-images/ready-2.jpg" title="Ready Player One" width="30%" style="margin:0 2.5rem 2.5rem -10%">
 
 I really enjoyed the world-building, and the writing style made it very readable, in the sense that the story moved very quickly and you were never confused about what was going on. For most of the story there are very few characters to keep track of, primarily the protagonist (Wade), his best friend, and his crush/girlfriend. There's somewhat of an interesting dynamic in that these best friends are simultaneously Wade's most serious competitors in a giant eater egg hunt of which the winner will become one of (if not _the_) most powerful person in the world. Surprisingly, the circumstances of this contest are set up in a mostly believable way (see: enjoyable world-building). So, overall I did enjoy the book, and I'm glad I read it. Especially prior to the forthcoming Spielberg adaptation. That said...
 
@@ -21,7 +21,7 @@ I did feel that the story was ultimately a little simple and felt a lot like man
 
 ##### Star Trek: Beyond
 
-<img align="right" src="{{site.baseurl}}/images/post-images/beyond0001.jpg" title="Star Trek:Beyond" width="40%" style="margin:0 2.5rem 2.5rem 10%">
+<img align="right" src="{{site.baseurl}}/images/post-images/beyond0001.jpg" title="Star Trek:Beyond" width="55%" style="margin:0 2.5rem 2.5rem 10%">
 
 I really disliked the previous movie, Star Trek: Into Darkness. The story was a mess that fell apart as soon as you thought about it for more than 3 seconds and it couldn't decide if it wanted to try to appeal to fans of the classic series and movies (especially Wrath of Khan) and ended up insulting said fans (which includes me) with super-forced references that totally didn't work. The new movie, Beyond, is _so_ much better than Into Darkness. I wouldn't go so far to say it was a genuinely great movie, but I'm honestly not sure _any_ Star Trek movie really qualifies for that distinction, (yeah, even II and IV). What's more, no Star Trek movie has ever really held up against the best episodes of the TV series, as they've tried to focus on action and adventure rather than the intelligent, thought-provoking, brains-over-braun fare that made the TV series' so beloved. 
 
