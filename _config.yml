@@ -20,5 +20,3 @@ github_username:  4pstart
 markdown: kramdown
 repository: 4pstart/robustwryale.git
 permalink: /blog/:year/:month/:day/:title
-
-include: /_posts/images
