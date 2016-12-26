@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Writing fiction"
-date: 2016-12-24
+title: "Science blog post"
+date: 2016-09-15
 ---
 
 You may have seen some recent(http://www.space.com/34044-moon-birth-may-have-vaporized-earth.html) articles(http://gizmodo.com/we-were-wrong-about-where-the-moon-came-from-1786527147) claiming dramatic new theories regarding the formation of Earth’s moon. These posts source a recent article published in Nature(http://www.nature.com/nature/journal/vaop/ncurrent/full/nature19341.html). Now, from the perspective of researchers in the field, this new information certainly is a significant change to their understanding of the intricacies of the formation of the Earth/Moon system. From the perspective of the scientifically-literate layperson, however, it’s really no big deal.
