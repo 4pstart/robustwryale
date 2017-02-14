@@ -20,7 +20,7 @@ On the Saturday (December 3rd), I left Mum at the mall for a bit while I went to
 
 So, on the afternoon of Sunday 11th, I flew out to LAX, rented a car and drove up to Santa Barbara (stopping in Isla Vista to get Freebirds nachos 'on the way', naturally). I worked from the office through Thursday, felt productive, and ever so slightly better about myself, and made my way up to the Bay Area for the weekend. On the way up to stay with Pat and Laura in Oakland, I had dinner in San Jose with Sarah, who I hadn't seen for a year. It was really nice to catch up with her, and she was kind enough to let me talk about the state of my love-life, and I listened to her as she talked about hers as well.
 
-<img align="left" src="{{site.baseurl}}/images/post-images/rob-pat-laura-yoshi.jpg" title="San Francisco" width="40%" style="margin:0 2.5rem 2.5rem -10%">
+<img align="left" src="{{site.baseurl}}/images/post-images/rob-pat-laura-yoshi.jpg" title="San Francisco" width="40%" style="margin:0 2.5rem 2.5rem -10%" class="rotate90">
 
 I spent Friday 16th working from Oakland, and the rest of that weekend with Pat, Laura and Yoshi. On Saturday, we visited the beautiful lookout over the Golden Gate bridge, San Francisco and the Bay beyond, before heading up to Russian River brewing for pizza and their delicious, highly-sought-after beer. On Sunday I joined their D&D (or Anima, or some other similar rule-set) game, reprising my role of Louisiana Smith, the whip-cracking, fedora-wearing, quick-witted action-hero archaeologist. It was a great weekend with great friends, who I'm extremely grateful to have in my life, and who definitely gave me some cheer.
 
